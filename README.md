@@ -1,7 +1,7 @@
 # My Profile
 
 
-## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Toni880) 
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TonicXd) 
 <br>
 
 [![Profile views](https://gpvc.arturio.dev/Toni8800)](https://github.com/Toni880)
